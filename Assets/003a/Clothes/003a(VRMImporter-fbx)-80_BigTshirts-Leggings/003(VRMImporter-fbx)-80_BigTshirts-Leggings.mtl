@@ -1,0 +1,26 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl TshirtPrint_FRONT_4677
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka C:/Users/akira/AppData/Local/CLO/Marvelous Designer 8 Personal/2812/1023/Bitmap2Material_3_Base_Color.png
+map_Kd C:/Users/akira/AppData/Local/CLO/Marvelous Designer 8 Personal/2812/1023/Bitmap2Material_3_Base_Color.png
+newmtl TshirtBody_FRONT_4673
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+newmtl Leggings_FRONT_4683
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka C:/Users/akira/AppData/Local/CLO/Marvelous Designer 8 Personal/2812/1023/Bitmap2Material_3_Base_ColorBitmap2Material_3.jpg
+map_Kd C:/Users/akira/AppData/Local/CLO/Marvelous Designer 8 Personal/2812/1023/Bitmap2Material_3_Base_ColorBitmap2Material_3.jpg

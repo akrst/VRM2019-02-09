@@ -1,0 +1,103 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl Collar_FRONT_78496
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka D:/Dropbox/__Output/2DImage/_textile/xlarge_dbcec59e-4856-4aa9-acb2-3368cec5864b.jpeg
+map_Kd D:/Dropbox/__Output/2DImage/_textile/xlarge_dbcec59e-4856-4aa9-acb2-3368cec5864b.jpeg
+newmtl PleatsSkirt_FRONT_78524
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka C:/Users/akira/AppData/Local/CLO/Marvelous Designer 8 Personal/36648/1420/Bitmap2Material_3_Base_Color_DESATURATION.png
+map_Kd C:/Users/akira/AppData/Local/CLO/Marvelous Designer 8 Personal/36648/1420/Bitmap2Material_3_Base_Color_DESATURATION.png
+newmtl Cuffs_FRONT_78520
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka D:/Dropbox/__Output/2DImage/_textile/xlarge_dbcec59e-4856-4aa9-acb2-3368cec5864b.jpeg
+map_Kd D:/Dropbox/__Output/2DImage/_textile/xlarge_dbcec59e-4856-4aa9-acb2-3368cec5864b.jpeg
+newmtl Body_Front_FRONT_78504
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka D:/Dropbox/__Output/2DImage/_textile/xlarge_dbcec59e-4856-4aa9-acb2-3368cec5864b.jpeg
+map_Kd D:/Dropbox/__Output/2DImage/_textile/xlarge_dbcec59e-4856-4aa9-acb2-3368cec5864b.jpeg
+newmtl Sleeve_Placket_FRONT_78516
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka D:/Dropbox/__Output/2DImage/_textile/xlarge_dbcec59e-4856-4aa9-acb2-3368cec5864b.jpeg
+map_Kd D:/Dropbox/__Output/2DImage/_textile/xlarge_dbcec59e-4856-4aa9-acb2-3368cec5864b.jpeg
+newmtl Body_Back_FRONT_78508
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka D:/Dropbox/__Output/2DImage/_textile/xlarge_dbcec59e-4856-4aa9-acb2-3368cec5864b.jpeg
+map_Kd D:/Dropbox/__Output/2DImage/_textile/xlarge_dbcec59e-4856-4aa9-acb2-3368cec5864b.jpeg
+newmtl Collar_Stand_FRONT_78500
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka D:/Dropbox/__Output/2DImage/_textile/xlarge_dbcec59e-4856-4aa9-acb2-3368cec5864b.jpeg
+map_Kd D:/Dropbox/__Output/2DImage/_textile/xlarge_dbcec59e-4856-4aa9-acb2-3368cec5864b.jpeg
+newmtl Sleeves_FRONT_78512
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka D:/Dropbox/__Output/2DImage/_textile/xlarge_dbcec59e-4856-4aa9-acb2-3368cec5864b.jpeg
+map_Kd D:/Dropbox/__Output/2DImage/_textile/xlarge_dbcec59e-4856-4aa9-acb2-3368cec5864b.jpeg
+newmtl Material78559
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+newmtl Material78574
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+newmtl Material78604
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+newmtl PT_FABRIC_FRONT_78610
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka C:/Users/akira/AppData/Local/CLO/Marvelous Designer 8 Personal/36648/1115/2_947487.png
+map_Kd C:/Users/akira/AppData/Local/CLO/Marvelous Designer 8 Personal/36648/1115/2_947487.png

@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 12972d9da04bc4f44a48b2bbcee60b26
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: default
+    400000: //RootNode
+    400002: default
+    2100000: Collar_Stand_FRONT_78500
+    2100002: Collar_FRONT_78496
+    2100004: Material78559
+    2100006: Body_Front_FRONT_78504
+    2100008: Body_Back_FRONT_78508
+    2100010: Sleeve_Placket_FRONT_78516
+    2100012: Sleeves_FRONT_78512
+    2100014: Material78574
+    2100016: Cuffs_FRONT_78520
+    2100018: Material78604
+    2100020: PleatsSkirt_FRONT_78524
+    2100022: PT_FABRIC_FRONT_78610
+    2300000: default
+    3300000: default
+    4300000: default
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body_Back_FRONT_78508
+    second: {fileID: 2100000, guid: 85505ae6deae258459810924d8a80e3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body_Front_FRONT_78504
+    second: {fileID: 2100000, guid: f548648ad3d6a7b42aaa95561d38e293, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Collar_FRONT_78496
+    second: {fileID: 2100000, guid: a2a68e17366e48648bf27a7286d6caf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Collar_Stand_FRONT_78500
+    second: {fileID: 2100000, guid: 68e919ff4092a3140a46d58f0b4020d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cuffs_FRONT_78520
+    second: {fileID: 2100000, guid: 3626acfbc9fb14148aed6b36301160b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material78559
+    second: {fileID: 2100000, guid: 07bfa21a3a2f26b49bfcb0439d5ddab1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material78574
+    second: {fileID: 2100000, guid: 1a75b1e674cde794e9a725868326d37a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material78604
+    second: {fileID: 2100000, guid: cab52603d59c93846a85195b7880bc2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PleatsSkirt_FRONT_78524
+    second: {fileID: 2100000, guid: 98ff3cabe4d29f84dadde7e577194cc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sleeve_Placket_FRONT_78516
+    second: {fileID: 2100000, guid: c1d9de4fa75acc741b8fa978466aab20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sleeves_FRONT_78512
+    second: {fileID: 2100000, guid: a7b2cfacdcc02154e846c2caa553b611, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

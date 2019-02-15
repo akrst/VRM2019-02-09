@@ -29,7 +29,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 31789ece6f6ce964fb7e30ec298e2f16, type: 3}
+        m_Texture: {fileID: 2800000, guid: 06530a62b750aa7429061b02a7c42b7d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OutlineWidthTexture:
@@ -41,7 +41,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ShadeTexture:
-        m_Texture: {fileID: 2800000, guid: 31789ece6f6ce964fb7e30ec298e2f16, type: 3}
+        m_Texture: {fileID: 2800000, guid: 06530a62b750aa7429061b02a7c42b7d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ShadingGradeTexture:
@@ -68,7 +68,7 @@ Material:
     - _OutlineWidth: 0.075
     - _OutlineWidthMode: 1
     - _ReceiveShadowRate: 1
-    - _ShadeShift: -0.3
+    - _ShadeShift: 0.24
     - _ShadeToony: 0
     - _ShadingGradeRate: 1
     - _SrcBlend: 1
@@ -77,4 +77,4 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _OutlineColor: {r: 0.27450982, g: 0.09019608, b: 0.1254902, a: 1}
-    - _ShadeColor: {r: 0.509804, g: 0.4705882, b: 1, a: 1}
+    - _ShadeColor: {r: 0.99215686, g: 0.9137255, b: 0.9372549, a: 1}
