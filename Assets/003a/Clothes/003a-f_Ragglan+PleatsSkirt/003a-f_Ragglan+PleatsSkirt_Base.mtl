@@ -1,0 +1,28 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl Skirt_FRONT_864692
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka D:/Dropbox/__Output/_textile/Pattern/xlarge_dbcec59e-4856-4aa9-acb2-3368cec5864b.jpeg
+map_Kd D:/Dropbox/__Output/_textile/Pattern/xlarge_dbcec59e-4856-4aa9-acb2-3368cec5864b.jpeg
+newmtl Sleeves_FRONT_1037984
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka D:/Dropbox/__Output/_textile/Pattern/xlarge_dbcec59e-4856-4aa9-acb2-3368cec5864b.jpeg
+map_Kd D:/Dropbox/__Output/_textile/Pattern/xlarge_dbcec59e-4856-4aa9-acb2-3368cec5864b.jpeg
+newmtl Body_FRONT_1037980
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka D:/Dropbox/__Output/_textile/Pattern/xlarge_dbcec59e-4856-4aa9-acb2-3368cec5864b.jpeg
+map_Kd D:/Dropbox/__Output/_textile/Pattern/xlarge_dbcec59e-4856-4aa9-acb2-3368cec5864b.jpeg
